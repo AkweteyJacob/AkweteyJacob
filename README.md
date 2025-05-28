@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Application Developer
 ----------------------------
 
-With several years of experience in web design and app development, I specialize in creating visually stunning and user-friendly digital experiences. My skills include crafting intuitive, responsive websites and building innovative applications. My growing interest in photography and graphic design further enhances my ability to deliver high-quality visuals. Throughout my career, I have focused on continuous improvement and staying abreast of industry trends to ensure impactful and exceptional project outcomes.
+I’m a passionate photographer and an aspiring web developer and application designer. While I’m still learning and growing in the tech space, I’m dedicated to developing the skills needed to build intuitive, responsive websites and innovative apps. I’m excited about blending my eye for visual detail with code to create engaging digital experiences. This GitHub is where I share my journey, projects, and progress as I continue to explore and build in the world of development.
 
 * 🌍  I'm based in Accra Ghana
 * ✉️  You can contact me at [akweteyjacob2005@gmail.com](mailto:akweteyjacob2005@gmail.com)
